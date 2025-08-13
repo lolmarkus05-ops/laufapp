@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+mplcursors
+
+# Ergänzungen bei Bedarf:
+plotly         # interaktive Plots (z. B. im Browser klickbar)
+seaborn        # schönere, statistischere Plots
+scipy          # lineare Regression, Tests
+reportlab      # PDF-Export
+openpyxl       # Excel-Dateien speichern oder laden
